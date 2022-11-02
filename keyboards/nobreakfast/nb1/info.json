@@ -1,0 +1,9 @@
+{
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "label": "!", "x": 1, "y": 0 }
+            ]
+        }
+    }
+}
